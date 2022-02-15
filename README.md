@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VeVeBee
 - 👀 I’m interested in front-end, web and mobile software devlopement
-- 🌱 I’m currently learning agile 
+- 🌱 I’m currently learning SQL 
 - 💞️ Languages I love are C++, JavaScript, Assembly, HTML, Python and Java!
 - 📫 How to reach me ...
 
